@@ -2,7 +2,7 @@ let num=13;
 let a;
 for(a=2;a<num;a++)
   {
-    if(num%a!=0)
+    if(num%a==0)
     {
        break;
     }
